@@ -47,6 +47,7 @@ The program uses the ollama_client for generating productivity analysis, with cu
 Customization
 You can modify the text and behavior of the analysis prompts in the pets.py file. It is easy to adjust the text, tone, and structure of the productivity summaries based on your preferences.
 
+Examples with llama3.1:latest 8b (you can change it in ollama_client.py)
 Dog Example Output
 Starting productivity monitor:
 - Taking screenshots every 5 seconds
